@@ -2,9 +2,6 @@
 
 A robust, full-stack task management application designed with strict Role-Based Access Control (RBAC), a modular monorepo architecture, and a premium glassmorphic UI.
 
-**[🌐 View Live on Railway](#)** *(Insert Railway link here before submission)*  
-**[🐙 View GitHub Repository](#)** *(Insert Repo link here before submission)*
-
 ---
 
 ## 🚀 Tech Stack
