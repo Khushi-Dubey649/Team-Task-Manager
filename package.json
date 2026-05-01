@@ -4,7 +4,7 @@
   "description": "Full-Stack Team Task Manager",
   "scripts": {
     "install-all": "npm install && cd client && npm install && cd ../server && npm install",
-    "build": "cd client && npm run build",
+    "build": "cd client && npm run build && cd ../server && npx prisma generate",
     "start": "node server/index.js"
   },
   "workspaces": [
